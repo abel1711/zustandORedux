@@ -1,0 +1,1 @@
+This is a test for learn Zustand and compare with redux
